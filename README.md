@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, my name is Sam
+#### Biostatistician and Data Scientist
+![Biostatistician and Data Scientist](https://github.com/SamMajumder/SamMajumder/blob/main/SAM%20MAJUMDER.gif)
 
-<!--
-**SamMajumder/SamMajumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in computational biology and data science/biostatistics with additional experience in GIS. I work primarily in the field of evolutionary biology, ecology, and agricultural ecology and biological image analysis with experience in accessible science communication. I have five years of experience in field of statistical modelling, statistical simulations, programming, machine learning and scientific communication. My primary interests are in building interpretable statistical and machine learning models to understand the process of evolution. I also specialize in employing principles of machine learning modelling and GIS to answer relevant questions pertaining to agriculture under climate change. Additionally, my interests also encompass building computer vision tools designed to help evolutionary biologists and ecologists study plant morphology and phenology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: R/Python/Frequentist Statistics/Data Science
+
+- 🔭 I’m currently working on Precision Agriculture, Bioinformatics and Spatial Statistics 
+- 🌱 I’m currently learning Bayesian Statistics, working with APIs and SQL 
+- 👯 I’m looking to collaborate on Interesting Data Science Projects.  
+- 🤔 I’m looking for help with expanding my knowledge about model deployment and working with APIs as well as databases 
+- 📫 How to reach me: sambadimajumder@gmail.com  
+- 😄 Pronouns: He/him/his 
+- ⚡ Fun fact: I share my birthday with Jennifer Lawrence, Ben Affleck and Indian Independence Day. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SamMajumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sam-majumder-25720870//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sam_majumder_//)  
+
+
+
+
