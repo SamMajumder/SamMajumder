@@ -5,7 +5,7 @@
 I specialize in computational biology and data science/biostatistics with additional experience in GIS. I work primarily in the field of evolutionary biology, ecology, and agricultural ecology and biological image analysis with experience in accessible science communication. I have five years of experience in field of statistical modelling, statistical simulations, programming, machine learning and scientific communication. My primary interests are in building interpretable statistical and machine learning models to understand the process of evolution. I also specialize in employing principles of machine learning modelling and GIS to answer relevant questions pertaining to agriculture under climate change. Additionally, my interests also encompass building computer vision tools designed to help evolutionary biologists and ecologists study plant morphology and phenology.
 
 
-Skills: R/Python/Frequentist Statistics/Data Science
+Skills: R/Python/Frequentist Statistics/Data Science/Ecology/Genomics
 
 - 🔭 I’m currently working on Precision Agriculture, Bioinformatics and Spatial Statistics 
 - 🌱 I’m currently learning Bayesian Statistics, working with APIs and SQL 
