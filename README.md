@@ -13,6 +13,7 @@ Skills: R/Python/Frequentist Statistics/Data Science/Ecology/Genomics/GIS
 - 📫 How to reach me: sambadimajumder@gmail.com 
 - 😄 Pronouns: He/him/his 
 - ⚡ Fun fact: I share my birthday with Jennifer Lawrence, Ben Affleck and the day of Indian Independence 
+- ### WEBSITE: sammajumder.github.io/Sam_Portfolio/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SamMajumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sam-majumder-25720870//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sam_majumder_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sammajumder.github.io/Sam_Portfolio/)  
