@@ -1,18 +1,18 @@
 ### Hi there 👋, my name is Sam
-#### Biostatistician and Data Scientist
+#### Geospatial Data Scientist
 ![Biostatistician and Data Scientist](https://github.com/SamMajumder/SamMajumder/blob/main/SAM%20MAJUMDER.gif)
 
-I specialize in computational biology and data science/biostatistics with additional experience in GIS. I work primarily in the field of evolutionary biology, ecology, and agricultural ecology with experience in accessible science communication. I have five years of experience in field of statistical modelling, statistical simulations, programming, machine learning and scientific communication. My primary interests are in building interpretable statistical and machine learning models to understand the process of evolution. I also specialize in employing principles of machine learning modelling and GIS to answer relevant questions pertaining to agriculture under climate change. Additionally, my interests also encompass building computer vision tools designed to help evolutionary biologists and ecologists study plant morphology and phenology.
+I am a Geospatial Data Scientist with a passion for unveiling the stories told by data within the realms of ecology, climate change, environmental security, and agriculture. I've been extremely fortunate to have worked at several prestigious organizations, including the Global Water Security Center, NASA, Bayer, and Becton Dickinson and Company, where I've harnessed data science to answer pertinent questions in climate change, sustainable agriculture, biodiversity conservation, and climate change mitigation. 
 
-Skills: R/Python/Frequentist Statistics/Data Science/Ecology/Genomics/GIS
+Skills: R/Python/Data Science/Ecology/GIS
 
-- 🔭 I’m currently working on Precision Agriculture, Bioinformatics and Spatial Statistics 
-- 🌱 I’m currently learning Bayesian Statistics, working with APIs and SQL 
+- 🔭 I’m currently working on projects pertaining to Environmental Security and Climate Change.
+- 🌱 I’m currently learning Spatial Statistics, working with APIs and SQL 
 - 👯 I’m looking to collaborate on Data Science Projects 
 - 🤔 I’m looking for help with expanding my current knowledge about model deployment and working with APIs as well as databases 
 - 📫 How to reach me: sambadimajumder@gmail.com 
 - 😄 Pronouns: He/him/his 
-- ⚡ Fun fact: I share my birthday with Jennifer Lawrence, Ben Affleck and the day of Indian Independence 
+- ⚡ Fun fact: I share my birthday with Jennifer Lawrence, Ben Affleck and the day of Indian Independence. I am also semi-professional musician and I enjoy composing instrumental rock and metal music. 
 - ### WEBSITE: https://sambadimajumder.quarto.pub/spatialdatachronicles/ 
 
 
