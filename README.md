@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sam
+### Hi there 👋, my name is Sambadi
 #### Geospatial Data Scientist
 ![Biostatistician and Data Scientist](https://github.com/SamMajumder/SamMajumder/blob/main/SAM%20MAJUMDER.gif)
 
