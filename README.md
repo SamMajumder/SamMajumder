@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sambadi
 #### Geospatial Data Scientist
-![Biostatistician and Data Scientist](https://github.com/SamMajumder/SamMajumder/blob/main/SAM%20MAJUMDER.gif)
+![Biostatistician and Data Scientist](https://github.com/SamMajumder/SamMajumder/blob/main/SAMBADI%20MAJUMDER.gif)
 
 I am a Geospatial Data Scientist with a passion for unveiling the stories told by data within the realms of ecology, climate change, environmental security, and agriculture. I've been extremely fortunate to have worked at several prestigious organizations, including the Global Water Security Center, NASA, Bayer, and Becton Dickinson and Company, where I've harnessed data science to answer pertinent questions in climate change, sustainable agriculture, biodiversity conservation, and climate change mitigation. 
 
